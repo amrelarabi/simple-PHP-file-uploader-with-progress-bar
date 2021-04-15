@@ -1,0 +1,10 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#progress{
+    width: 100%;
+}
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
